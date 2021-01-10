@@ -7,11 +7,12 @@ import App from './App';
 import './index.css';
 
 ReactDOM.render(
-  <BrowserRouter>
-    <HashRouter>
-      <App />
-    </HashRouter>
-  </BrowserRouter>,
+  // <BrowserRouter>
+  <HashRouter>
+    <App />
+  </HashRouter>
+  // </BrowserRouter>
+  ,
   document.getElementById('root')
 );
 

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.84a674b3.chunk.css",
-    "main.js": "/Portfolio/static/js/main.3fde4404.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.3fde4404.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.b19d5380.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b19d5380.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.efb1fe8d.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.efb1fe8d.js.map",
-    "static/js/2.567995b5.chunk.js": "/Portfolio/static/js/2.567995b5.chunk.js",
-    "static/js/2.567995b5.chunk.js.map": "/Portfolio/static/js/2.567995b5.chunk.js.map",
+    "static/js/2.feacacd1.chunk.js": "/Portfolio/static/js/2.feacacd1.chunk.js",
+    "static/js/2.feacacd1.chunk.js.map": "/Portfolio/static/js/2.feacacd1.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.10ddf9ffd7d616c6015b0ce5e8f082a3.js": "/Portfolio/precache-manifest.10ddf9ffd7d616c6015b0ce5e8f082a3.js",
+    "precache-manifest.5144abe2f18e17532b681de6db7ee19d.js": "/Portfolio/precache-manifest.5144abe2f18e17532b681de6db7ee19d.js",
     "service-worker.js": "/Portfolio/service-worker.js",
     "static/css/main.84a674b3.chunk.css.map": "/Portfolio/static/css/main.84a674b3.chunk.css.map",
-    "static/js/2.567995b5.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.567995b5.chunk.js.LICENSE.txt",
+    "static/js/2.feacacd1.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.feacacd1.chunk.js.LICENSE.txt",
     "static/media/COVID.jpg": "/Portfolio/static/media/COVID.0685327b.jpg",
     "static/media/Dev_talks.jpg": "/Portfolio/static/media/Dev_talks.b76d63af.jpg",
     "static/media/api.png": "/Portfolio/static/media/api.421b2223.png",
@@ -38,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.efb1fe8d.js",
-    "static/js/2.567995b5.chunk.js",
+    "static/js/2.feacacd1.chunk.js",
     "static/css/main.84a674b3.chunk.css",
-    "static/js/main.3fde4404.chunk.js"
+    "static/js/main.b19d5380.chunk.js"
   ]
 }

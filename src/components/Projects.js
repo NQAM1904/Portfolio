@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import data_projects from './data/projects_data'
 import ProjectCard from './ProjectCard';
-
+import Skeleton, { SkeletonTheme } from "react-loading-skeleton";
 const Projects = () => {
     const [projects, setProjects] = useState(data_projects)
     const [loading, setloading] = useState(true)
@@ -102,8 +102,9 @@ const Projects = () => {
             </div>
 
             <div className="row">
+                {!loading && data.project ? handleFilterCategory(active) : (<Skeleton duration={2} height={150} width={150} />)
 
-                {!loading && data.project && handleFilterCategory(active)}
+                }
             </div>
         </motion.div>
 
